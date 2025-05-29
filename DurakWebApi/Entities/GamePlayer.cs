@@ -1,4 +1,4 @@
-namespace Domain.Entities;
+namespace DurakWebApi.Entities;
 
 public class GamePlayer
 {
